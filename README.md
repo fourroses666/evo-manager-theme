@@ -6,3 +6,5 @@ Change you Manager style to below design:
 
 Follow the steps here:
 https://forum.evo.im/d/77-custom-manager-theme
+
+If you would like to theme TinyMCE4 look here - https://github.com/fourroses666/evo-tinymce-custom-theme
